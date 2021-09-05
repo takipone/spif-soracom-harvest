@@ -1,0 +1,15 @@
+{
+    "name": "spif-soracom-harvest",
+    "version": "0.0.1",
+    "description": "sample",
+    "author": "takipone <takipone@gmaill.com>",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "ws": "^7.5.4",
+      "node-fetch": "^3.0.0"
+    },
+    "type": "module"
+  }
